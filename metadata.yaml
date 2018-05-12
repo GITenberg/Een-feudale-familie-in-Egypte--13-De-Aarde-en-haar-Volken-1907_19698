@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5336
     wikipedia: http://fr.wikipedia.org/wiki/%C3%89mile_Am%C3%A9lineau
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19698#Een-feudale-familie-in-Egypte--13-De-Aarde-en-haar-Volken-1907
 gutenberg_bookshelf:
 - De Aarde en haar Volken
 - Egypt
